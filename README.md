@@ -255,13 +255,3 @@ Strong expertise in **high-availability, ultra-low-latency, secure, and automate
 * Secure & Segmented Network Infrastructure
 
 ---
-
-If you would like, I can now:
-
-* ✅ Convert this into a **portfolio-optimized version**
-* ✅ Create a **recruiter-friendly condensed version**
-* ✅ Generate a **LinkedIn About summary**
-* ✅ Convert into a structured CV-ready documentation section**
-* ✅ Create a categorized Excel master skill sheet**
-
-Just tell me which version you need.
